@@ -12,7 +12,6 @@ I am a passionate and motivated junior web developer with a strong foundation in
   </a>
 </p>
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs"/>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Parthpal/langs)](https://githubtrends.io)
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
 </p>
