@@ -11,7 +11,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
   </a>
 </p>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Parthpal/langs)](https://githubtrends.io)
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
 </p>
