@@ -8,7 +8,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
   </a>
 </p>
 <p align="center">
