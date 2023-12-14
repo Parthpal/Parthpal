@@ -17,7 +17,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <p align="center">
   <a href="https://www.facebook.com/partha.pal.50159"><img style="width:120px;height:50px;margin-right:5px;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0"></a>
   <a href="https://www.linkedin.com/in/partha-pal-224799246/"> <img style="width:120px;height:50px;margin:40px;" src="https://i.ibb.co/b13QqJp/linkedin-btn.png" alt="linkedin-btn" border="0"></a>
-  <a href="#link1"><img  style="width:120px;height:50px;" src="https://i.ibb.co/X5pk0Kr/instagram-btn.png" alt="instagram-btn" border="0"></a>
+  <a href="https://www.instagram.com/palstechie/"><img  style="width:120px;height:50px;" src="https://i.ibb.co/X5pk0Kr/instagram-btn.png" alt="instagram-btn" border="0"></a>
 </p>
 
 <h2>📊 Current Status</h2>
