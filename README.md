@@ -13,6 +13,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
   </a>
 </p>
+<br/>
 <h2>💬 Happy to hear from you</h2>
 
 <p align="">
