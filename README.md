@@ -15,9 +15,13 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>Happy to hear from you</h2>
 <p align="center">
-  <a style="padding: 10px 15px; background-color: blue; color: white; border: 2px; border-radius: 5px; cursor: pointer;">Facebook</a>
+  <a href="#link1"><button style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Button 1</button></a>
+  <a href="#link2"><button style="padding: 10px 15px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">Button 2 (Primary)</button></a>
+  <a href="#link3"><button style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Button 3</button></a>
 </p>
+
 <h2>Current Status</h2>
 <p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
 </p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Parthpal}&theme={github_dark}&exclude={exclude}" />
