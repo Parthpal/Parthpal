@@ -18,8 +18,16 @@ I am a passionate and motivated junior web developer with a strong foundation in
 
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>Happy to hear from you</h2>
-<p>
-  
+<p align="center">
+  <a href="#link1" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Button%201-Blue.svg" alt="Button 1">
+  </a>
+  <a href="#link2" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Button%202-Green.svg" alt="Button 2">
+  </a>
+  <a href="#link3">
+    <img src="https://img.shields.io/badge/Button%203-Orange.svg" alt="Button 3">
+  </a>
 </p>
 <h2>Current Status</h2>
 <p>
