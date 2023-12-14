@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://i.ibb.co/P14L41K/parthapradippal-gmail-com.png" alt="parthapradippal-gmail-com" border="0">
 </p>
 <h2>About Me</h2>
