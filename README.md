@@ -25,6 +25,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <div>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthpal&theme=github_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthpal&theme=github_dark" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthpal&theme=github_dark)
 </div>
 
