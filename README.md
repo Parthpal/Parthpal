@@ -15,7 +15,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>Happy to hear from you</h2>
 <p align="center">
-  <button style="padding: 10px 15px; background-color: blue; color: white; border: 2px; border-radius: 5px; cursor: pointer;">Facebook</button>
+  <a style="padding: 10px 15px; background-color: blue; color: white; border: 2px; border-radius: 5px; cursor: pointer;">Facebook</a>
 </p>
 <h2>Current Status</h2>
 <p>
