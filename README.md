@@ -14,19 +14,16 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <h2>💬 Happy to hear from you</h2>
 <p align="">
   <a href="https://www.facebook.com/partha.pal.50159">
-    <div style="width:120px; height:50px; margin-right:5px; overflow: hidden; border-radius: 10px;">
-      <img style="width:100%; height:100%;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0">
+    <div style=" border-radius: 10px;">
+  <img style="width:120px; height:50px; margin-right:5px;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png"     alt="facebook-btn"   border="0">
     </div>
+
   </a>
   <a href="https://www.linkedin.com/in/partha-pal-224799246/">
-    <div style="width:120px; height:50px; margin:40px; overflow: hidden; border-radius: 10px;">
-      <img style="width:100%; height:100%;" src="https://i.ibb.co/b13QqJp/linkedin-btn.png" alt="linkedin-btn" border="0">
-    </div>
+    <img style="width:120px; height:50px; margin:40px; border-radius: 10px;" src="https://i.ibb.co/b13QqJp/linkedin-btn.png" alt="linkedin-btn" border="0">
   </a>
   <a href="https://www.instagram.com/palstechie/">
-    <div style="width:120px; height:50px; overflow: hidden; border-radius: 10px;">
-      <img style="width:100%; height:100%;" src="https://i.ibb.co/X5pk0Kr/instagram-btn.png" alt="instagram-btn" border="0">
-    </div>
+    <img style="width:120px; height:50px; border-radius: 10px;" src="https://i.ibb.co/X5pk0Kr/instagram-btn.png" alt="instagram-btn" border="0">
   </a>
 </p>
 
