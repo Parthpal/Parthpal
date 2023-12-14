@@ -38,6 +38,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
   - 📊 MongoDB
   - ⚡ Next.js
   - 🌐 Express.js
+  - 🚀 Wordpress theme design
 - 👨‍💻 Actively seeking an internship or job opportunity to apply and enhance my skills.
 - 🌟 Recently, I've developed and deployed WordPress websites, showcasing my commitment to real-world projects.
 
@@ -45,13 +46,6 @@ I am a passionate and motivated junior web developer with a strong foundation in
 
 - 🔍 Open to internships and job opportunities to contribute my skills and gain valuable experience.
 - 🌐 Passionate about web development and eager to work on exciting projects.
-
-### 💻 Technologies & Tools
-
-- 💬 Ask me about my journey with React.js, MongoDB, Next.js, and Express.js.
-- 🛠️ Proficient in building dynamic and responsive web applications.
-- 📚 Currently honing my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
-
 
 ### 🌟 Fun Facts
 
