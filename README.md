@@ -13,7 +13,11 @@ I am a passionate and motivated junior web developer with a strong foundation in
 </p>
 
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
+<h2>Happy to hear from you</h2>
+<p>
+  
+</p>
 <h2>Current Status</h2>
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parthpal&theme=dark" alt="GitHub Streak" /></a>
 </p>
