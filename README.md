@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://i.ibb.co/Pw3yLKW/WEBSITE-DEVELOPER.png" alt="WEBSITE-DEVELOPER" style="width: 100%; border="0">
 </p>
-
+<br/>
 <h2>🙋‍♂️ About Me</h2>
 <p>
 I am a passionate and motivated junior web developer with a strong foundation in modern web technologies. I am proficient in ReactJS for building dynamic and interactive user interfaces, MongoDB for data storage and management, and ExpressJS and NodeJS for backend development. Beyond coding, I'm adept at transforming concepts into visually appealing and functional websites using WordPress. From concept to implementation, I bring a blend of creativity and technical expertise to my design projects.
 </p>
+<br/>
 <h2>💻 Technology That I Know</h2>
 <p align="">
   <a href="#">
@@ -25,7 +26,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
     <img style="width:120px; height:50px; border-radius: 10px;" src="https://i.ibb.co/X5pk0Kr/instagram-btn.png" alt="instagram-btn" border="0">
   </a>
 </p>
-
+<br/>
 
 <h2>📊 Current Status</h2>
 <p>
@@ -36,4 +37,4 @@ I am a passionate and motivated junior web developer with a strong foundation in
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthpal&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parthpal&theme=github_dark" />
 </div>
-
+<br/>
