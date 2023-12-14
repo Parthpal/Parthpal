@@ -15,7 +15,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>Happy to hear from you</h2>
 <p align="center">
-  <a href="#link1" style="margin-right: 8px;padding:8px">
+  <a href="#link1" style="margin-right: 8px;padding:8px;border:2px;">
     Facebook
   </a>
   <a href="#link2" style="margin-right: 8px;">
