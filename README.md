@@ -27,6 +27,4 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <div>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthpal&theme=github_dark)
 </div>
-<div>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthpal&theme=github_dark)
-</div>
+
