@@ -15,7 +15,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>Happy to hear from you</h2>
 <p align="center">
-  <a href="#link1"><img src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0"></a>
+  <a href="#link1"><img style="width:20px;height:12px;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0"></a>
   <a href="#link2"><button style="padding: 10px 15px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">Button 2 (Primary)</button></a>
   <a href="#link3"><button style="padding: 10px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Button 3</button></a>
 </p>
