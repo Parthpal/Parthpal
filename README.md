@@ -5,7 +5,7 @@
 <p>
 I am a passionate and motivated junior web developer with a strong foundation in modern web technologies. I am proficient in ReactJS for building dynamic and interactive user interfaces, MongoDB for data storage and management, and ExpressJS and NodeJS for backend development. Beyond coding, I'm adept at transforming concepts into visually appealing and functional websites using WordPress. From concept to implementation, I bring a blend of creativity and technical expertise to my design projects.
 </p>
-<h2>Language and Tools</h2>
+<h2>Technology That I Know</h2>
 <p align="">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
