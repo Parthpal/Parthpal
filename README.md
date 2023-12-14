@@ -4,7 +4,7 @@
 <br/>
 <h2>🙋‍♂️ About Me</h2>
 <p>
-### 👋 Hi there, I'm [Your Name]!
+👋 Hi there, I'm Partha Pal!
 I am a passionate and motivated junior web developer with a strong foundation in modern web technologies. I am proficient in ReactJS for building dynamic and interactive user interfaces, MongoDB for data storage and management, and ExpressJS and NodeJS for backend development. Beyond coding, I'm adept at transforming concepts into visually appealing and functional websites using WordPress. From concept to implementation, I bring a blend of creativity and technical expertise to my design projects.
 </p>
 <br/>
