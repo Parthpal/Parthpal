@@ -11,8 +11,6 @@ I am a passionate and motivated junior web developer with a strong foundation in
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
   </a>
 </p>
-
-<img src="https://api.githubtrends.io/user/svg/Parthpal/langs?time_range=one_year&theme=dark"/>
 <h2>💬 Happy to hear from you</h2>
 <p align="center">
   <a href="https://www.facebook.com/partha.pal.50159"><img style="width:120px;height:50px;margin-right:5px;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0"></a>
