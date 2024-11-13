@@ -11,7 +11,7 @@ I am a passionate and motivated junior web developer with a strong foundation in
 <h2>💻 Technology That I Know</h2>
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express,typescript,redux,nextjs,mongoose" />
   </a>
 </p>
 <br/>
