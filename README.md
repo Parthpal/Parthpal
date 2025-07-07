@@ -19,7 +19,7 @@ I’m now looking forward to opportunities where I can contribute as a React + .
 <h2>💻 Technology That I Know</h2>
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express,typescript,redux,nextjs,mongoose,dotnet,csharp,azure,visualstudio,postman,jira" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express,typescript,redux,nextjs,mongoose,dotnet,azure,visualstudio,postman,jira,mysql" />
   </a>
 </p>
 <br/>
