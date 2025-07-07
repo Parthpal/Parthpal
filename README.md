@@ -29,7 +29,7 @@ I’m now looking forward to opportunities where I can contribute as a React + .
   <a href="https://www.facebook.com/partha.pal.50159">
     <img style="width:120px; height:50px; margin-right:5px; border-radius: 10px;" src="https://i.ibb.co/NycVJ6t/facebook-btn.png" alt="facebook-btn" border="0">
   </a>
-  <a href="https://www.linkedin.com/in/parthapaal/">
+  <a href="https://www.linkedin.com/in/partha-pal-a42654373/">
     <img style="width:120px; height:50px; margin:40px; border-radius: 10px;" src="https://i.ibb.co/b13QqJp/linkedin-btn.png" alt="linkedin-btn" border="0">
   </a>
   <a href="https://www.instagram.com/palstechie/">
@@ -40,20 +40,24 @@ I’m now looking forward to opportunities where I can contribute as a React + .
 
 <h2>📊 Current Status</h2>
 
-- 🌐 I'm a passionate aspiring Junior Web Developer.
+- 🌐 I'm a passionate aspiring > Frontend-focused React.NET full-stack Developer.
 - 🚀 Currently on a learning journey with a focus on:
   - 💻 React.js
   - 📊 MongoDB
   - ⚡ Next.js
   - 🌐 Express.js
-  - 🚀 Wordpress theme design
-- 👨‍💻 Actively seeking an internship or job opportunity to apply and enhance my skills.
-- 🌟 Recently, I've developed and deployed WordPress websites, showcasing my commitment to real-world projects.
+  - 🖥️ ASP.NET Core
+  - 🧠 TypeScript
+  - 🗃️ SQL Server
+  - ☁️ Azure
+  - 🚀 WordPress theme design
+- 👨‍💻 Actively seeking a job opportunity to apply and enhance my skills with 3.1 years of experience.
 
 ### 💼 Looking For
 
-- 🔍 Open to internships and job opportunities to contribute my skills and gain valuable experience.
-- 🌐 Passionate about web development and eager to work on exciting projects.
+🔍 Actively seeking full-time opportunities where I can contribute my skills in React, .NET Core, and modern web technologies.
+🌐 Passionate about building user-centric, scalable web applications and eager to work on challenging real-world projects that promote continuous learning.
+🤝 Open to collaborating in dynamic teams and contributing to impactful products in frontend-heavy full-stack roles.
 
 ### 🌟 Fun Facts
 
