@@ -5,13 +5,21 @@
 <h2>🙋‍♂️ About Me</h2>
 <p>
 👋 Hi there, I'm Partha Pal!
-I am a passionate and motivated junior MERN stack developer with a strong foundation in modern web technologies. I am proficient in ReactJS and NextJS for building dynamic and interactive user interfaces, MongoDB for data storage and management, and ExpressJS and NodeJS for backend development. Beyond coding, I'm adept at transforming concepts into visually appealing and functional websites using WordPress. From concept to implementation, I bring a blend of creativity and technical expertise to my design projects.
+I’m a passionate and performance-driven Frontend-Focused Full Stack Developer with 3.3+ years of experience, specializing in ReactJS, TypeScript, Tailwind CSS, and modern UI development. On the backend, I’m skilled in ASP.NET Core, C#, and SQL Server, delivering scalable and secure applications deployed on Microsoft Azure.
+
+My experience spans across healthcare and banking domains, where I've built responsive web apps, integrated RESTful APIs, and ensured clean, maintainable, and HIPAA-compliant codebases. I’ve contributed to platforms like AI-powered health checkers, appointment systems, and digital loan origination systems with strong attention to performance, accessibility, and UX.
+
+I enjoy converting designs (Figma) into fully functional interfaces, building reusable components, and implementing client-side routing and form handling using React Hook Form, React Router, and Redux.
+
+Beyond full-stack development, I collaborate in Agile/Scrum teams, manage version control with Git, and support CI/CD pipelines alongside DevOps teams.
+
+I’m now looking forward to opportunities where I can contribute as a React + .NET developer, with a focus on delivering rich frontend experiences backed by powerful backend systems.
 </p>
 <br/>
 <h2>💻 Technology That I Know</h2>
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express,typescript,redux,nextjs,mongoose" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,firebase,nodejs,react,wordpress,express,typescript,redux,nextjs,mongoose,ci/cd,dotnet" />
   </a>
 </p>
 <br/>
